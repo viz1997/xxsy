@@ -18,27 +18,27 @@ migrate_working_dir/
 *.iws
 .idea/
 
-   # Flutter/Dart/Pub related
-   .dart_tool/
-   .packages
-   .flutter-plugins
-   .flutter-plugins-dependencies
-   .idea/
-   .vscode/
-   build/
-   ios/Flutter/Flutter.framework
-   ios/Flutter/Flutter.podspec
-   ios/ServiceDefinitions.json
-   pubspec.lock
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+pubspec.lock
 
-   # Android
-   android/app/build/
-   *.apk
-   *.aar
-   *.so
+# Android
+android/app/build/
+*.apk
+*.aar
+*.so
 
-   # macOS
-   macos/Flutter/ephemeral/
+# macOS
+macos/Flutter/ephemeral/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
