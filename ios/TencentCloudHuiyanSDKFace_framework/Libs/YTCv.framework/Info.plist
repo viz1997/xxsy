@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+	<string>YTCv</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.tencent.youtu.cv</string>
+    <key>CFBundleExecutable</key>
+    <string>YTCv</string>
+    <key>CFBundleVersion</key>
+	<string>v0.0.7-2-g3bdc755</string>
+    <key>CFBundleShortVersionString</key>
+	<string>v0.0.7-2-g3bdc755</string>
+    <key>CFBundlePackageType</key>
+    <string>FMWK</string>
+</dict>
+</plist>

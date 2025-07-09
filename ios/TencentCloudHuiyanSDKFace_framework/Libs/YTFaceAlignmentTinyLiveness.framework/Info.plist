@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+	<string>YTFaceAlignmentTiny</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.tencent.youtu.alignment</string>
+    <key>CFBundleExecutable</key>
+    <string>YTFaceAlignmentTinyLiveness</string>
+    <key>CFBundleVersion</key>
+	<string>v3.0.2-mini.5-2-g7035ab4</string>
+    <key>CFBundleShortVersionString</key>
+	<string>v3.0.2-mini.5-2-g7035ab4</string>
+    <key>CFBundlePackageType</key>
+    <string>FMWK</string>
+</dict>
+</plist>
