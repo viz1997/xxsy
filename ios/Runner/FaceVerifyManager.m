@@ -50,7 +50,7 @@
                                                            success:^{
         // SDK初始化成功，启动人脸识别
         dispatch_async(dispatch_get_main_queue(), ^{
-            BOOL success = [[WBFaceVerifyCustomerService sharedInstance] startWbFaceVerifySdk];
+            BOOL success = [[WBFaceVerifyCustomerService sharedInstance] startWbFaceVeirifySdk];
             if (!success) {
                 if (self.flutterResult) {
                     self.flutterResult(@{
