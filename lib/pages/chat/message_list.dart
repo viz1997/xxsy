@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tencent_im_sdk_plugin/models/v2_tim_message.dart';
+import 'package:tencent_cloud_chat_sdk/models/v2_tim_message.dart';
 import 'message_bubble/text_message_bubble.dart';
 import 'message_bubble/image_message_bubble.dart';
 import 'message_bubble/file_message_bubble.dart';

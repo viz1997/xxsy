@@ -1418,22 +1418,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "8.6.7019+6"
-  tencent_im_sdk_plugin:
-    dependency: "direct main"
-    description:
-      name: tencent_im_sdk_plugin
-      sha256: d72c512259e4b3c804e4997e3879af71d454156ec9a522f8a1e16598fdeffce7
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.0.5"
-  tencent_im_sdk_plugin_platform_interface:
-    dependency: transitive
-    description:
-      name: tencent_im_sdk_plugin_platform_interface
-      sha256: "27738c7bfce4594fb2d10daaa627ca31bd957609d4c79bd66d6d0f9cfc75bc7d"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.3.25"
   term_glyph:
     dependency: transitive
     description:

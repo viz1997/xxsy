@@ -3,14 +3,14 @@ import 'package:flutter_tencent_faceid/pages/chat/chat_page.dart';
 import 'package:flutter_tencent_faceid/pages/system_notifications_page.dart';
 import 'package:flutter_tencent_faceid/api/chat_message_api.dart';
 import 'package:flutter_tencent_faceid/config/tencent_cloud_config.dart';
-import 'package:tencent_im_sdk_plugin/tencent_im_sdk_plugin.dart';
-import 'package:tencent_im_sdk_plugin/enum/log_level_enum.dart';
-import 'package:tencent_im_sdk_plugin/models/v2_tim_conversation.dart';
-import 'package:tencent_im_sdk_plugin/models/v2_tim_value_callback.dart';
-import 'package:tencent_im_sdk_plugin/models/v2_tim_conversation_result.dart';
-import 'package:tencent_im_sdk_plugin_platform_interface/enum/V2TimSDKListener.dart';
-import 'package:tencent_im_sdk_plugin_platform_interface/enum/V2TimConversationListener.dart';
-import 'package:tencent_im_sdk_plugin/models/v2_tim_text_elem.dart';
+import 'package:tencent_cloud_chat_sdk/tencent_im_sdk_plugin.dart';
+import 'package:tencent_cloud_chat_sdk/enum/log_level_enum.dart';
+import 'package:tencent_cloud_chat_sdk/models/v2_tim_conversation.dart';
+import 'package:tencent_cloud_chat_sdk/models/v2_tim_value_callback.dart';
+import 'package:tencent_cloud_chat_sdk/models/v2_tim_conversation_result.dart';
+import 'package:tencent_cloud_chat_sdk/enum/V2TimSDKListener.dart';
+import 'package:tencent_cloud_chat_sdk/enum/V2TimConversationListener.dart';
+import 'package:tencent_cloud_chat_sdk/models/v2_tim_text_elem.dart';
 import 'package:flutter_tencent_faceid/pages/chat/conversation.dart';
 
 class MessagesPage extends StatefulWidget {
