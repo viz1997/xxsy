@@ -1,5 +1,5 @@
 #import "FaceVerifyManager.h"
-#import <WBCloudReflectionFaceVerify/WBFaceVerifyCustomerService.h>
+#import <TencentCloudHuiyanSDKFace/WBFaceVerifyCustomerService.h>
 
 @interface FaceVerifyManager () <WBFaceVerifyCustomerServiceDelegate>
 
