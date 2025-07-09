@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.source = { :path => '.' }
 
   s.ios.deployment_target    = '12.0'
-  s.ios.vendored_frameworks   = 'Libs/*.framework'
+  s.ios.vendored_framework   = 'Libs/*framework'
   s.ios.resource = 'Resources/*.bundle'
 end
