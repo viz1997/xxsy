@@ -43,7 +43,7 @@ post_install do |installer|
     
     # Enable Required Settings for Face SDK
     target.build_configurations.each do |config|
-      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '11.0'
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '12.0'
       
       # Add any additional required build settings here
       config.build_settings['ENABLE_BITCODE'] = 'NO'
