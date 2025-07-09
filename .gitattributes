@@ -1,0 +1,2 @@
+*. filter=lfs diff=lfs merge=lfs -text
+ios/TencentCloudHuiyanSDKFace_framework/Libs/YTFaceAlignmentTinyLiveness.framework/YTFaceAlignmentTinyLiveness filter=lfs diff=lfs merge=lfs -text
